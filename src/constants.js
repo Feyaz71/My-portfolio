@@ -27,6 +27,7 @@ import shikshakul from './assets/work_logo/shikshakul.png';
 import chatapp from './assets/work_logo/chatapp.png';
 import weatherapp from './assets/work_logo/weatherapp.png';
 import vag from './assets/work_logo/vag.png';
+import hgj from './assets/work_logo/hgj.png';
 
 export const SkillsInfo = [
   {
@@ -155,6 +156,16 @@ export const SkillsInfo = [
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Feyaz71/Virtual-art-gallery",
       webapp: "https://feyaz71.github.io/Virtual-art-gallery/",
+    },
+    {
+      id: 4,
+      title: "Har Ghar Job",
+      description:
+        "An AI-powered platform guiding students & early-career professionals through personalized career planning. Combines AI skill assessment, resume optimization, mock interviews, and real-time job trends into one comprehensive platform.",
+      image: hgj,
+      tags: ["NEXT.JS", "TAILWIND CSS", "TYPESCRIPT","FIREBASE"],
+      github: "https://github.com/Feyaz71/Har-Ghar-Job",
+      webapp: "https://test-disha--disha-darshak.asia-southeast1.hosted.app/",
     },
     
   ];  
